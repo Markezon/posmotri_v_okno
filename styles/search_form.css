@@ -93,8 +93,8 @@
   content: "";
   position: absolute;
   display: block;
-  width: 15px;
-  height: 15px;
+  inline-size: 15px;
+  block-size: 15px;
   background-color: #fff;
   scale: 0%;
 }

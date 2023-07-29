@@ -1,8 +1,7 @@
 .button {
-  position: relative;
   display: flex;
-  width: 194px;
-  height: 34px;
+  inline-size: 194px;
+  block-size: 34px;
   justify-content: center;
   align-items: center;
   gap: 10px;

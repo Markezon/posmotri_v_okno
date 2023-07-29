@@ -13,7 +13,6 @@
 }
 
 .content__details {
-  inline-size: 399px;
   block-size: 534px;
   display: flex;
   flex-direction: column;
@@ -48,6 +47,7 @@
   inline-size: 194px;
   block-size: 103px;
   object-fit: cover;
+  object-position: center;
 }
 
 .content__video-card-description {
