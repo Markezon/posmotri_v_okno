@@ -79,7 +79,6 @@
 }
 
 .search-form__pseudo-checkbox {
-  position: relative;
   inline-size: 19px;
   block-size: 19px;
   border: 1px solid #fff;
@@ -91,7 +90,6 @@
 
 .search-form__pseudo-checkbox::after {
   content: "";
-  position: absolute;
   display: block;
   inline-size: 15px;
   block-size: 15px;
